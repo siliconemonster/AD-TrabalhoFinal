@@ -24,7 +24,7 @@
 O objetivo deste projeto é construir um simulador de um sistema de 2 caches em redes (FIFO, LRU, Random e Estáticas) com perdas e atrasos, de acordo com 4 cenários possíveis. São eles: canais sem perdas e sem atrasos, canais com perdas e sem atrasos, e dois canais com perdas e com atrasos.
 Também devemos efetuar os cálculos utilizando nossos conhecimentos sobre cadeias de Markov, e compararmos com o intervalo de confiança obtido em cada simulação quando possível. Calcularemos as probabilidades de sucesso, user miss, tempo médio de serviço de requisições, conforme o que for solicitado em cada cenário. 
 
-Optamos pela linguagem Python, pois fornece uma gama de funções pré-existentes para o nosso auxílio, entre elas funções para plotagem de gráficos.
+Optamos pela linguagem Python, pois fornece uma gama de funções pré-existentes para o nosso auxílio, entre elas funções para plotagem de gráficos. Todos os simuladores desenvoldidos se encontram no notebook jupyter [Simulação_AD.ipynb](https://github.com/siliconemonster/AD-TrabalhoFinal/blob/main/Simula%C3%A7%C3%A3o_AD.ipynb).
 
 # Cenário I
 
