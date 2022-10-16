@@ -2,7 +2,7 @@
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/siliconemonster/AD-TrabalhoFinal?color=a21360&style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/siliconemonster/AD-TrabalhoFinal?color=a21360&style=for-the-badge)
-![Made With](https://img.shields.io/badge/Made%20With-Python-lightgrey?color=a21360&style=for-the-badge)
+![Made With](https://img.shields.io/badge/Made%20With-Python;%20Jupyter%20Notebook-lightgrey?color=a21360&style=for-the-badge)
 ![GitHub repo file count](https://img.shields.io/github/directory-file-count/siliconemonster/AD-TrabalhoFinal?color=a21360&style=for-the-badge)
 ![GitHub last commit](https://img.shields.io/github/last-commit/siliconemonster/AD-TrabalhoFinal?color=a21360&style=for-the-badge)
 
