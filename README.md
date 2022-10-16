@@ -15,7 +15,7 @@
   - [Simulador Cenário II](#simulador-cenário-ii)
 - [Cenário III – Com perdas e com atrasos](#cenário-iii)
   - [Simulador Cenário III](#simulador-cenário-iii)
-- Aplicação dos Simuladores e Conclusão(#aplicação-dos-simuladores-e-conclusão)
+- [Aplicação dos Simuladores e Conclusão](#aplicação-dos-simuladores-e-conclusão)
 - [Colaboradores](#colaboradores)
 - [Licença](#licença)
 
@@ -286,7 +286,6 @@ inteiro maior que 0.
 [⬆ Voltar ao topo](#caching-em-redes-com-perdas-e-atrasos)
 
 # Aplicação dos Simuladores e Conclusão
-
 Por serem muito extensos, os resultados das simulações aplicadas e nossa conclusão se encontram no documento [Relatório Trabalho Final - AD.pdf](https://github.com/siliconemonster/AD-TrabalhoFinal/blob/main/Relat%C3%B3rio%20Trabalho%20Final%20-%20AD.pdf)
 
 # Colaboradores
