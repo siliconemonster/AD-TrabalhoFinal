@@ -9,12 +9,6 @@
 # Índice
 
 - [Introdução](#introdução)
-- [Microdados ENADE](#microdados-enade)
-- [Obtenção dos Dados](#obtenção-dos-dados)
-- [Modelagem de Dados](#modelagem-de-dados)
-- [Tratamento de Dados](#tratamento-de-dados)
-- [Análise Exploratória](#análise-exploratória)
-- [Modelo de Predição](#modelo-de-predição)
 - [Colaboradores](#colaboradores)
 - [Licença](#licença)
 
